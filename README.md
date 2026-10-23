@@ -1,15 +1,4 @@
 # FSLMS — Family School Learning Management System
-
-\<p align="center">
-&#x20; \<strong>A digital platform connecting students, teachers, parents, and school administrators.\</strong>
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Project-INSA%20Graduation%20Project-5B5FEF?style=for-the-badge](https://img.shields.io/badge/Project-INSA%20Graduation%20Project-5B5FEF?style=for-the-badge)" alt="INSA Graduation Project">
-&#x20; \<img src="[https://img.shields.io/badge/Frontend-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Frontend-Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)" alt="Flutter">
-&#x20; \<img src="[https://img.shields.io/badge/Language-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white](https://img.shields.io/badge/Language-Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)" alt="Dart">
-\</p>
-
 ---
 
 ## 📖 About the Project
