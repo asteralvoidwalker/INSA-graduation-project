@@ -67,16 +67,18 @@ Developed as an **INSA Cyber Talent Summer Camp — 5th Batch, CTC graduation pr
 │       API Routes and Logic          │
 └──────────────────┬──────────────────┘
                    │
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 Install the following development tools:
 
-- [Flutter SDK](https://flutter.dev/)
-- [Dart SDK](https://dart.dev/)
-- [Node.js](https://nodejs.org/)
-- [Git](https://git-scm.com/)
+- [Flutter SDK](https://flutter.dev)
+- [Dart SDK](https://dart.dev)
+- [Node.js](https://nodejs.org)
+- [Git](https://git-scm.com)
 - A Supabase project, if running the database-integrated version
 
 Replace the repository URL with your actual GitHub repository URL.
@@ -143,6 +145,7 @@ fslms/
 ├── .gitignore
 ├── pubspec.yaml
 └── README.md
+```
 
 ## 🔒 Security and Privacy
 
@@ -196,4 +199,5 @@ Potential areas for further development include:
 - Improving notifications and parent–teacher communication.
 - Adding automated tests and improving reliability.
 - Enhancing accessibility and the user experience.
-[Document Link:](https://docs.google.com/document/d/1KDiA4AN-f3o2bXNMv3XcvQM_B5L7zwH8SIgIO_7YVbw/edit?tab=t.0)
+
+[Document Link](https://docs.google.com/document/d/1KDiA4AN-f3o2bXNMv3XcvQM_B5L7zwH8SIgIO_7YVbw/edit?tab=t.0)
