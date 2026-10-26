@@ -196,5 +196,4 @@ Potential areas for further development include:
 - Improving notifications and parent–teacher communication.
 - Adding automated tests and improving reliability.
 - Enhancing accessibility and the user experience.
-
-(https://docs.google.com/document/d/1KDiA4AN-f3o2bXNMv3XcvQM_B5L7zwH8SIgIO_7YVbw/edit?tab=t.0)
+[Document Link:](https://docs.google.com/document/d/1KDiA4AN-f3o2bXNMv3XcvQM_B5L7zwH8SIgIO_7YVbw/edit?tab=t.0)
